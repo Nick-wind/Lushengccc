@@ -1,0 +1,15 @@
+﻿#include<stdio.h>
+int main()
+{
+	printf("你好!");
+	printf("How are you?");
+<<<<<<< HEAD
+	printf("Hua!!!");
+=======
+	printf("Hua!");
+	printf("OK!");
+	printf("Good!");
+	printf("You can !!");
+>>>>>>> featurel
+	return 0;
+}
